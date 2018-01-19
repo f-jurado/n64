@@ -1,0 +1,15 @@
+{
+  "name": "webpack-express-boilerplate",
+  "version": "0.1.0",
+  "description": "A boilerplate for running a Webpack workflow in Node express",
+  "main": "server.js",
+  "author": "bathroom64",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/server"
+  },
+  "dependencies": {
+    "socket.io": "^1.7.2",
+    "express": "^4.13.3"
+  }
+}
